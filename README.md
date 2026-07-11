@@ -7,3 +7,6 @@ A simple recipe website I developed using basic HTML elements while completing T
 
 - Chicken Enchiladas by Zehra Yilmaz on Pexels
     https://images.pexels.com/photos/35081817/pexels-photo-35081817.jpeg
+
+- Mac and Cheese by Carla Kroell
+    https://images.pexels.com/photos/25449940/pexels-photo-25449940.jpeg
