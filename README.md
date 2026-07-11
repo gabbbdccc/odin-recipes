@@ -10,3 +10,6 @@ A simple recipe website I developed using basic HTML elements while completing T
 
 - Mac and Cheese by Carla Kroell
     https://images.pexels.com/photos/25449940/pexels-photo-25449940.jpeg
+
+- Pancakes by Unaizat Abdulgamidova
+    https://images.pexels.com/photos/36457612/pexels-photo-36457612.jpeg
