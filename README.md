@@ -16,3 +16,17 @@ A simple recipe website I developed using basic HTML elements while completing T
 
 - Fried Chicken by Alankrit Saini on Pexels
     https://images.pexels.com/photos/33254639/pexels-photo-33254639.jpeg
+
+# Recipe Inspiration
+
+- Crispy Fried Chicken
+    https://www.allrecipes.com/recipe/8805/crispy-fried-chicken/
+
+- Enchanted Sour Cream Chicken Enchiladas
+    https://www.allrecipes.com/recipe/212451/enchanted-sour-cream-chicken-enchiladas/
+
+- 3-Ingredient Pancakes
+    https://www.allrecipes.com/3-ingredient-pancakes-recipe-11894382
+
+- 4-Ingredient Ramen Mac and Cheese
+    https://www.allrecipes.com/4-ingredient-ramen-mac-and-cheese-recipe-11923081
