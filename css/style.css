@@ -1,0 +1,15 @@
+* {
+    font-family: sans-serif;
+    background-color: rgb(251, 255, 199);
+    /* outline: 2px solid black; */
+}
+
+h1 {
+    display: inline;
+    text-align: center;
+    background-color: rgb(255, 200, 200);
+    border: 2px solid black;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: monospace;
+}
